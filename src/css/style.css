@@ -1,3 +1,7 @@
+body {
+  background-color: #f8d6d0;;
+}
+
 .headerDesign {
   margin: auto;
   margin-top: 0px;
@@ -16,4 +20,31 @@
 
 .hide  {
   display: none;
+}
+
+.designMantraLogo {
+  padding: 71px 0px;
+  margin: 0px;
+  font-size: 69px;
+  font-family: 'Homemade Apple', cursive;
+}
+
+.heaingLogo {
+  padding: 226px 0px;
+  text-align: center;
+}
+
+i {
+  font-size: 50px;
+  padding-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.icons {
+  padding-right: 56px;
+  display: inline;
 }
