@@ -1,5 +1,6 @@
 body {
-  background-color: #f8d6d0;;
+  background-color: #f8d6d0;
+  margin: auto;
 }
 
 .headerDesign {
@@ -47,4 +48,26 @@ a {
 .icons {
   padding-right: 56px;
   display: inline;
+}
+
+.imgpos {
+  position: absolute;
+  padding-top: 143px;
+  padding-left: 78px;
+  max-width: 350px;
+}
+
+.imgpos2 {
+  float: right;
+  /* text-align: right; */
+  width: 225px;
+  position: absolute;
+  padding-left: 600px;
+  padding-top: 166px;
+}
+
+.arrow {
+  text-align: left;
+  position: absolute;
+  z-index: -1;
 }
