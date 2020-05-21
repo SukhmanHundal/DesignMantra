@@ -60,6 +60,7 @@ a {
   position: absolute;
   padding-top: 143px;
   max-width: 350px;
+  z-index: -1;
 }
 
 .imgpos2 {
