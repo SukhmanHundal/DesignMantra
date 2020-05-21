@@ -1,6 +1,12 @@
 body {
   background-color: #f8d6d0;
   margin: auto;
+  
+}
+
+#page-wrap {
+  width: 800px;
+  margin: 0 auto;
 }
 
 .headerDesign {
@@ -53,7 +59,6 @@ a {
 .imgpos {
   position: absolute;
   padding-top: 143px;
-  padding-left: 78px;
   max-width: 350px;
 }
 
@@ -70,4 +75,17 @@ a {
   text-align: left;
   position: absolute;
   z-index: -1;
+}
+
+.linksClickable {
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Dancing Script', cursive;
+  padding-bottom: 200px;
+}
+
+.arrowimg {
+  width: 200px;
+  display: block;
+  margin: auto
 }
